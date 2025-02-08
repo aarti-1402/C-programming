@@ -11,5 +11,5 @@ void main (){
      scanf("%d",&b);
 
      printf("the sum is :%d",sum);
-     
+     \
 }
