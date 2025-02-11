@@ -5,7 +5,7 @@ void main(){
     {
         for(j=1;j<=i;j++) // columns
         {
-           printf("*");
+           printf("* ");
         }
         printf("\n");
     }
