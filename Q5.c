@@ -5,9 +5,9 @@ void main(){
     L=7;
     B=5;
     area=L*B;
-    printf("%d",area);
+    printf("%d \n",area);
     perimeter=2*(L+B);
-    printf("%d",perimeter);
+    printf("%d\n",perimeter);
 
     
 
