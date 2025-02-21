@@ -2,12 +2,17 @@
 #include<stdio.h>
 void main(){
     int L,B,area,perimeter;
-    L=7;
-    B=5;
+    printf("Enter length:");
+    scanf("%d",&L);
+    printf("\nEnter breadth :");
+    scanf("%d",&B);
+
+    
     area=L*B;
-    printf("%d \n",area);
+    printf("area of rectangle :%d\n",area);
     perimeter=2*(L+B);
-    printf("%d\n",perimeter);
+    printf("perimeter of rectangle :%d",perimeter);
+    
 
     
 
